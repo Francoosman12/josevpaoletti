@@ -2,7 +2,7 @@ import React from 'react'
 
 const Noticias = () => {
   return (
-    <section class="relative pt-16 bg-white">
+    <section class="w-full min-h-screen bg-withe md:pt-32 pt-10 bg-white" id='noticias'>
       <div class="container mx-auto">
         <div class="flex flex-wrap items-center">
           <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
@@ -86,4 +86,4 @@ const Noticias = () => {
   )
 }
 
-export default Noticias;
+export default Noticias
