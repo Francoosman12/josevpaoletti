@@ -52,12 +52,12 @@ const Navbar = () => {
       {isOpen && (
         <div className="md:hidden block">
           <div className="flex flex-col space-y-4 mt-3 p-4 text-center texto-gris">
-            <a href="#" className="text-current hover:border-b-4 border-current-200 texto-gris">Inicio</a>
-            <a href="#nosotros" className="text-current hover:border-b-4 border-current-200 texto-gris">Nosotros</a>
-            <a href="#empresas" className="text-current hover:border-b-4 border-current-200 texto-gris">Empresas</a>
-            <a href="#noticias" className="text-current hover:border-b-4 border-current-200 texto-gris">Herramientas</a>
-            <a href="#" className="text-current hover:border-b-4 border-current-200 texto-gris">RRHH</a>
-            <a href="#contacto" className="text-current hover:border-b-4 border-current-200 texto-gris">Contacto</a>
+            <a href="#" className="text-current hover:border-b-4 border-RED-500 texto-gris">Inicio</a>
+            <a href="#nosotros" className="text-current hover:border-b-4 border-RED-500 texto-gris">Nosotros</a>
+            <a href="#empresas" className="text-current hover:border-b-4 border-RED-500 texto-gris">Empresas</a>
+            <a href="#noticias" className="text-current hover:border-b-4 border-RED-500 texto-gris">Herramientas</a>
+            <a href="#RRHH" className="text-current hover:border-b-4 border-RED-500 texto-gris">RRHH</a>
+            <a href="#contacto" className="text-current hover:border-b-4 border-RED-500 texto-gris">Contacto</a>
           </div>
         </div>
       )}
