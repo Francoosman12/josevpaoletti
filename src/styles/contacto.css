@@ -1,0 +1,90 @@
+.contenedor__contacto {
+    background: linear-gradient(#fefefe, #fdfcfc, #fdfdfd);
+    width: 100%;
+    height: auto;
+    /* margin: 70px 0; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario-contacto__contenedor {
+    width: 700px;
+    text-align: center;
+
+    color: #2865FF;
+}
+
+.formulario-contacto__contenedor h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.formulario-contacto__contenedor p {
+    font-size: 1.2rem;
+
+    width: 400px;
+    margin: 20px auto;
+    color: #777;
+}
+
+.agrupacion-datos {
+    margin: auto;
+
+    width: 60%;
+
+}
+
+.form-contacto__datos {
+    margin: 10px 0;
+}
+
+.form-contacto__datos .form_controls-one {
+    width: 190px;
+    margin: 0 10px;
+}
+
+.form_controls {
+    border-bottom: 4px solid #2865FF;
+    width: 100%;
+    padding: 7px;
+    text-transform: capitalize;
+
+
+}
+
+.form_controls::placeholder {
+    color: #666;
+
+}
+
+.textare {
+    resize: none;
+    height: 80px;
+
+}
+
+#form-contacto__btn {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    background-color: #D3ECFF;
+    color: #2865FF;
+    padding: 10px 60px;
+    border-radius: 18px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 699px) {
+    .form-contacto__datos .form_controls-one {
+        width: 100%;
+        margin: 8px 0px;
+    }
+}
+
+@media screen and (min-width: 1200px) and (orientation: landscape) {
+    
+    .seccion-nosotros {
+     flex-wrap: wrap;
+    }
+}
