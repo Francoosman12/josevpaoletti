@@ -3,7 +3,7 @@ import "../styles/contacto.css";
 const Contacto = () => {
   return (
     <>
-      <section className='w-full min-h-screen bg-withe md:pt-32 p-4' id='contacto'>
+      <section className='w-full min-h-screen bg-withe md:pt-26 p-4' id='contacto'>
         <div class="flex justify-center items-center w-full h-full bg-white">
 
           <div class="container mx-auto my-4 px-4 lg:px-20">
@@ -11,7 +11,7 @@ const Contacto = () => {
             <form action="https://getform.io/f/f3215236-c97b-4303-83e7-489a7196a4d2" method="POST">
               <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                 <div class="flex-block">
-                  <h1 class="font-bold uppercase lg:text-5xl text-3xl texto-gris">Contactanos<br /></h1>
+                  <h1 class="font-bold uppercase lg:text-5xl text-3xl texto-gris">Contáctanos<br /></h1>
                   <p class="pt-5 text-2xl texto-gris">Dejanos un mensaje, te responderemos a la brevedad</p>
                 </div>
                 <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
@@ -51,7 +51,18 @@ const Contacto = () => {
                   </div>
                   <div class="flex flex-col">
                     <h2 class="text-3xl">Tucumán</h2>
-                    <p class="text-withe">5555 Tailwind RD, Pleasant Grove, UT 73533</p>
+                    <p class="text-withe">5555 Tailwind RD</p>
+                    <p class="text-withe">Fax: xxx-xxx-xxx</p>
+                  </div>
+                </div>
+
+                <div class="flex my-2 w-2/3 lg:w-1/2">
+                  <div class="flex flex-col">
+                    <i class="fas fa-map-marker-alt pt-2 pr-2" />
+                  </div>
+                  <div class="flex flex-col">
+                    <h2 class="text-3xl">Concepción</h2>
+                    <p class="text-withe">5555 Tailwind RD</p>
                     <p class="text-withe">Fax: xxx-xxx-xxx</p>
                   </div>
                 </div>

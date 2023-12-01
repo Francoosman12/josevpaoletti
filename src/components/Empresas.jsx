@@ -19,11 +19,11 @@ const Empresas = () => {
                             <p className='pt-5 text-center lg:text-start texto-gris'>En 1973, José Vicente Paoletti y Teresa Belio fundaron nuestra empresa familiar como un pequeño negocio de golosinas. A lo largo de los años, su dedicación y trabajo arduo nos llevaron al éxito que somos hoy en día. Celebramos con orgullo nuestros 50 años de historia, honrando el legado de nuestros fundadores y comprometiéndonos a seguir su ejemplo de excelencia empresarial. ¡Feliz 50 aniversario!</p>
                         </div>
                         <div>
-                            <h1 className='texto-gris text-center lg:text-start pt-5 lg:text-4xl md:text-3xl text-2xl font-bold'>Punto de venta</h1>
+                            <h1 className='texto-gris text-center lg:text-start pt-5 lg:text-4xl md:text-3xl text-2xl font-bold'>Punto de Venta</h1>
                             <p className='pt-5 text-center lg:text-start texto-gris'>En 1973, José Vicente Paoletti y Teresa Belio fundaron nuestra empresa familiar como un pequeño negocio de golosinas. A lo largo de los años, su dedicación y trabajo arduo nos llevaron al éxito que somos hoy en día. Celebramos con orgullo nuestros 50 años de historia, honrando el legado de nuestros fundadores y comprometiéndonos a seguir su ejemplo de excelencia empresarial. ¡Feliz 50 aniversario!</p>
                         </div>
                         <div>
-                            <h1 className='texto-gris text-center lg:text-start pt-5 lg:text-4xl md:text-3xl text-2xl font-bold'>DTS</h1>
+                            <h1 className='texto-gris text-center lg:text-start pt-5 lg:text-4xl md:text-3xl text-2xl font-bold'>D.T.S.</h1>
                             <p className='pt-5 text-center lg:text-start texto-gris'>En 1973, José Vicente Paoletti y Teresa Belio fundaron nuestra empresa familiar como un pequeño negocio de golosinas. A lo largo de los años, su dedicación y trabajo arduo nos llevaron al éxito que somos hoy en día. Celebramos con orgullo nuestros 50 años de historia, honrando el legado de nuestros fundadores y comprometiéndonos a seguir su ejemplo de excelencia empresarial. ¡Feliz 50 aniversario!</p>
                         </div>
                         <button className='border-gray-500 border border-solid rounded-lg hover:bg-red-500 p-2 hover:rounded-lg hover:text-white mt-5 w-full lg:w-2/5 texto-gris'>Ver empresas</button>

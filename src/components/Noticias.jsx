@@ -10,12 +10,10 @@ const Noticias = () => {
               <img alt="..." src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80" class="w-full align-middle rounded-t-lg" />
               <blockquote class="relative p-8 bg-red-500">
                 <h4 class="text-xl font-bold text-white">
-                  Great for your awesome project
+                  Aqui va el titulo de una noticias principal
                 </h4>
                 <p class="text-md font-light mt-2 text-white">
-                  Putting together a page has never been easier than matching
-                  together pre-made components. From landing pages presentation
-                  to login areas, you can easily customise and built your pages.
+                  Aquí va la descripcion
                 </p>
               </blockquote>
             </div>
@@ -29,10 +27,9 @@ const Noticias = () => {
                     <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-sitemap"></i>
                     </div>
-                    <h6 class="text-xl mb-1 font-semibold">CSS Components</h6>
+                    <h6 class="text-xl mb-1 font-semibold">Noticia 2</h6>
                     <p class="mb-4 text-blueGray-500">
-                      Notus JS comes with a huge number of Fully Coded CSS
-                      components.
+                      Descripcion noticias 2
                     </p>
                   </div>
                 </div>
@@ -42,11 +39,10 @@ const Noticias = () => {
                       <i class="fas fa-drafting-compass"></i>
                     </div>
                     <h6 class="text-xl mb-1 font-semibold">
-                      JavaScript Components
+                      Noticia 3
                     </h6>
                     <p class="mb-4 text-blueGray-500">
-                      We also feature many dynamic components for React, NextJS,
-                      Vue and Angular.
+                      Descripcion noticia 3
                     </p>
                   </div>
                 </div>
@@ -57,10 +53,9 @@ const Noticias = () => {
                     <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-newspaper"></i>
                     </div>
-                    <h6 class="text-xl mb-1 font-semibold">Pages</h6>
+                    <h6 class="text-xl mb-1 font-semibold">Noticia 4</h6>
                     <p class="mb-4 text-blueGray-500">
-                      This extension also comes with 3 sample pages. They are
-                      fully coded so you can start working instantly.
+                      Descripcion noticia 4
                     </p>
                   </div>
                 </div>
@@ -69,10 +64,9 @@ const Noticias = () => {
                     <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-file-alt"></i>
                     </div>
-                    <h6 class="text-xl mb-1 font-semibold">Documentation</h6>
+                    <h6 class="text-xl mb-1 font-semibold">Noticia 5</h6>
                     <p class="mb-4 text-blueGray-500">
-                      Built by developers for developers. You will love how easy
-                      is to to work with Notus JS.
+                      Descripcion noticia 5
                     </p>
                   </div>
                 </div>

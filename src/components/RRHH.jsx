@@ -13,7 +13,7 @@ const RRHH = () => {
                                 Trabajá con nosotros
                             </h2>
                             <p className="mt-4 md:text-white text-gray-600 md:text-2xl">
-                                Llená el siguiente formulario para ser tenido en cuenta en los procesos de selección.
+                                Llená el siguiente formulario para participar en el proceso de selección.
                             </p>
                             <div className='mt-10'>
                                 <a href="https://forms.gle/KjtsYHSaULy3TjzH6" className='bg-red-600 rounded-xl  hover:bg-red-500 p-2 hover:rounded-lg hover:text-white w-full lg:w-2/5 text-white'>Formulario de Trabajo</a>
