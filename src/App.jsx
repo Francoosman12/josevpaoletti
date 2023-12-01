@@ -16,8 +16,8 @@ function App() {
       <Inicio />
       <Nosotros />
       <Empresas />
-      <Noticias />
       <RRHH />
+      <Noticias />
       <Contacto />
       <Footer />
 
