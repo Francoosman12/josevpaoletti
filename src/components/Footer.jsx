@@ -12,7 +12,7 @@ const Footer = () => {
             <a class="flex items-center justify-center font-medium text-gray-900 title-font md:justify-start">
               <img className="logo" src="https://i.ibb.co/GdhXk5R/logo-jvp.png" alt="" />
             </a>
-            <p class="mt-2 text-sm text-gray-500">Design, Code and Ship!</p>
+            <p class="mt-2 text-sm text-gray-500">Empresa líder en ventas y distribución.</p>
             <div class="mt-4">
               <span class="inline-flex justify-center mt-2 sm:ml-auto sm:mt-0 sm:justify-start">
                 <a class="text-gray-500 cursor-pointer hover:text-gray-700">
@@ -50,42 +50,42 @@ const Footer = () => {
           </div>
           <div class="flex flex-wrap flex-grow mt-10 -mb-10 text-center md:pl-20 md:mt-0 md:text-left">
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
-              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">About</h2>
+              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Nosotros</h2>
               <nav class="mb-10 list-none">
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Company</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Misión</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Careers</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Visión</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Blog</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Nuestro Equipo</a>
                 </li>
               </nav>
             </div>
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
-              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Support</h2>
+              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Empresas</h2>
               <nav class="mb-10 list-none">
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Contact Support</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Jose V. Paoletti</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Help Resources</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Punto de Venta</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Release Updates</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">D.T.S.</a>
                 </li>
               </nav>
             </div>
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
-              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Platform
+              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">RRHH
               </h2>
               <nav class="mb-10 list-none">
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Terms &amp; Privacy</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Departamento de RRHH</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Pricing</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Trabaja con Nosotros</a>
                 </li>
                 <li class="mt-3">
                   <a class="text-gray-500 cursor-pointer hover:text-gray-900">FAQ</a>
@@ -93,13 +93,13 @@ const Footer = () => {
               </nav>
             </div>
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
-              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Contact</h2>
+              <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Contacto</h2>
               <nav class="mb-10 list-none">
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Send a Message</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Envianos un Mensaje</a>
                 </li>
                 <li class="mt-3">
-                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Request a Quote</a>
+                  <a class="text-gray-500 cursor-pointer hover:text-gray-900">Ir a nuestra Ubicación</a>
                 </li>
                 <li class="mt-3">
                   <a class="text-gray-500 cursor-pointer hover:text-gray-900">+123-456-7890</a>

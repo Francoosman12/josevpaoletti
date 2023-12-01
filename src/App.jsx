@@ -5,7 +5,7 @@ import Empresas from "./components/Empresas";
 import Noticias from "./components/Noticias";
 import Contacto from "./components/Contacto";
 import Footer from "./components/Footer";
-
+import RRHH from "./components/RRHH";
 import "./styles/contacto.css"
 function App() {
 
@@ -17,6 +17,7 @@ function App() {
       <Nosotros />
       <Empresas />
       <Noticias />
+      <RRHH />
       <Contacto />
       <Footer />
 

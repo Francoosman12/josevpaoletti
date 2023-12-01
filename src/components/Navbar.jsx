@@ -20,8 +20,8 @@ const Navbar = () => {
           <a href="#inicio" className="text-lg hover:border-b-2 border-red-500 texto-gris">Inicio</a>
           <a href="#nosotros" className="text-lg hover:border-b-2 border-red-500 texto-gris">Nosotros</a>
           <a href="#empresas" className="text-lg hover:border-b-2 border-red-500 texto-gris">Empresas</a>
+          <a href="#RRHH" className="text-lg hover:border-b-2 border-red-500 texto-gris">RRHH</a>
           <a href="#noticias" className="text-lg hover:border-b-2 border-red-500 texto-gris">Noticias</a>
-          <a href="#rrhh" className="text-lg hover:border-b-2 border-red-500 texto-gris">RRHH</a>
           <a href="#contacto" className="text-lg hover:border-b-2 border-red-500 texto-gris">Contacto</a>
           <a href="#" className="texto-gris border-red-500"><svg
             xmlns="http://www.w3.org/2000/svg"
@@ -55,8 +55,8 @@ const Navbar = () => {
             <a href="#" className="text-current hover:border-b-4 border-RED-500 texto-gris">Inicio</a>
             <a href="#nosotros" className="text-current hover:border-b-4 border-RED-500 texto-gris">Nosotros</a>
             <a href="#empresas" className="text-current hover:border-b-4 border-RED-500 texto-gris">Empresas</a>
-            <a href="#noticias" className="text-current hover:border-b-4 border-RED-500 texto-gris">Herramientas</a>
             <a href="#RRHH" className="text-current hover:border-b-4 border-RED-500 texto-gris">RRHH</a>
+            <a href="#noticias" className="text-current hover:border-b-4 border-RED-500 texto-gris">Noticias</a>
             <a href="#contacto" className="text-current hover:border-b-4 border-RED-500 texto-gris">Contacto</a>
           </div>
         </div>
