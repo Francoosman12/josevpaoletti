@@ -24,6 +24,8 @@ const Contacto = () => {
                     type="email" placeholder="Email*" required />
                   <input name="phone" class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                     type="tel" placeholder="Celular*" required />
+                  <input name="file" class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                    type="file" placeholder="Archivo pdf" required />
                 </div>
                 <div class="my-4">
                   <textarea name="message" placeholder="Mensaje*" class="w-full h-32 bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" required></textarea>
