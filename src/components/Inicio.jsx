@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react';
 import '../styles/inicio.css';
 import Datos from './datos';
+import Publicidad from './Publicidad'
 /* import Typed from 'react-typed'; */
 
 
@@ -9,8 +10,8 @@ import Datos from './datos';
 const Inicio = () => {
 
     return (
-        <section className='w-full min-h-screen bg-white md:pt-26 p-4 justify-center' id='inicio'>
 
+        <section className='w-full min-h-screen bg-white md:pt-26 p-4 justify-center' id='inicio'>
             <div className="home flex-block lg:flex">
                 <div className='Distribuidora max-w-[1000px] mx-auto lg:pl-28 pt-10 lg:pt-24 flex-block md:flex-col lg:text-left justify-center text-center w-full md:w-3/5 p-4 h-full'>
                     <h1 className='texto-gris lg:text-9xl md:text-7xl text-5xl'>Distribuidora.</h1>
