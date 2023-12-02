@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import 'swiper/swiper-bundle.css'; // Import Swiper CSS
 
 const RRHH = () => {
+
     return (
         <section className="bg-no-repeat bg-cover bg-center" style={{ backgroundImage: "url(https://i.ibb.co/J2kGx4Y/Dise-o-sin-t-tulo-1.png)" }} id='RRHH'>
             <div >
@@ -19,9 +20,10 @@ const RRHH = () => {
                                 <a href="https://forms.gle/KjtsYHSaULy3TjzH6" className='bg-red-600 rounded-xl  hover:bg-red-500 p-2 hover:rounded-lg hover:text-white w-full lg:w-2/5 text-white'>Formulario de Trabajo</a>
                             </div>
 
-                            <div className="flex flex-row items-center space-x-3">
-                                {/* Add your social media links here */}
-                            </div>
+
+
+
+
                         </div>
 
                     </div>

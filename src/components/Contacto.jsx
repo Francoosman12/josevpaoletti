@@ -1,9 +1,10 @@
 import React from "react";
 import "../styles/contacto.css";
+
 const Contacto = () => {
   return (
     <>
-      <section className='w-full min-h-screen bg-withe md:pt-26 p-4' id='contacto'>
+      <section className='w-full min-h-screen bg-withe md:pt-26 p-4 ' id='contacto'>
         <div class="flex justify-center items-center w-full h-full bg-white">
 
           <div class="container mx-auto my-4 px-4 lg:px-20">
