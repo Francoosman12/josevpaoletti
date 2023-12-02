@@ -9,7 +9,7 @@ const Contacto = () => {
 
           <div class="container mx-auto my-4 px-4 lg:px-20">
 
-            <form action="https://getform.io/f/f3215236-c97b-4303-83e7-489a7196a4d2" method="POST">
+            <form action="https://getform.io/f/f3215236-c97b-4303-83e7-489a7196a4d2" method="POST" enctype="multipart/form-data">
               <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                 <div class="flex-block">
                   <h1 class="font-bold uppercase lg:text-5xl text-3xl texto-gris">Contáctanos<br /></h1>
