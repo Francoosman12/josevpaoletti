@@ -13,7 +13,7 @@ const Contacto = () => {
               <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                 <div class="flex-block">
                   <h1 class="font-bold uppercase lg:text-5xl text-3xl texto-gris">Contáctanos<br /></h1>
-                  <p class="pt-5 text-2xl texto-gris">Dejanos un mensaje, te responderemos a la brevedad</p>
+                  <p class="pt-5 text-2xl texto-gris">Dejanos un mensaje para comunicarte con nosotros.</p>
                 </div>
                 <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
                   <input name="name" class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"

@@ -1,4 +1,6 @@
 import React from 'react'
+import "./ModalNosotros"
+import ModalNosotros from './ModalNosotros'
 
 const Nosotros = () => {
 
@@ -18,7 +20,11 @@ const Nosotros = () => {
             <div className='border-red-500 border-2 border-solid lg:w-1/3 w-full lg:mb-6 mb-3'></div>
             <h1 className='texto-gris font-bold text-center lg:text-start lg:text-4xl md:text-3xl text-2xl'>Protagonistas hace 50 años</h1>
             <p className='pt-5 text-center lg:text-start text-xl texto-gris'>En 1973, José Vicente Paoletti y Teresa Belio fundaron nuestra empresa familiar como un pequeño negocio de golosinas. A lo largo de los años, su dedicación y trabajo arduo nos llevaron al éxito que somos hoy en día. Celebramos con orgullo nuestros 50 años de historia, honrando el legado de nuestros fundadores y comprometiéndonos a seguir su ejemplo de excelencia empresarial. ¡Feliz 50 aniversario!</p>
-            <button className='border-gray-500 border border-solid rounded-lg  hover:bg-red-500 p-2 hover:rounded-lg hover:text-white mt-5 w-full lg:w-2/5 texto-gris'>Mas sobre nosotros</button>
+            {/* Mas sobre nosotros */}
+
+            <ModalNosotros />
+
+            {/* fin */}
           </div>
         </div>
       </div>

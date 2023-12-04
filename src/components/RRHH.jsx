@@ -17,9 +17,17 @@ const RRHH = () => {
                                 Llená el siguiente formulario para participar en el proceso de selección.
                             </p>
                             <div className='mt-10'>
-                                <a href="https://forms.gle/KjtsYHSaULy3TjzH6" className='bg-red-600 rounded-xl  hover:bg-red-500 p-2 hover:rounded-lg hover:text-white w-full lg:w-2/5 text-white'>Formulario de Trabajo</a>
+                                <a href="https://forms.gle/KjtsYHSaULy3TjzH6" className='uppercase bg-red-500 rounded-xl  hover:bg-red-500 p-2 hover:rounded-lg hover:text-white w-full lg:w-2/5 text-white'>Formulario de Trabajo</a>
                             </div>
-
+                            <form action="https://getform.io/f/f3215236-c97b-4303-83e7-489a7196a4d2" method="POST" enctype="multipart/form-data">
+                                <input name="file" class="my-4 w-full md:w-2/3 bg-gray-100 text-gray-900 mt-8 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                                    type="file" placeholder="Archivo pdf" required />
+                                <div class="my-4 w-full flex justify-center items-center">
+                                    <button class="uppercase text-sm font-bold tracking-wide bg-red-500 text-gray-100 p-3 rounded-lg  focus:outline-none focus:shadow-outline " type="submit">
+                                        Enviar mensaje
+                                    </button>
+                                </div>
+                            </form>
 
 
 
