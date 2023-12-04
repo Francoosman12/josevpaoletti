@@ -43,7 +43,7 @@ const Inicio = () => {
                 </div>
                 <div className='dibujo-home md:w-2/5 w-full h-full lg:p-4 '>
                     <div className='max-w-[1000px] mx-auto justify-center text-center lg:justify-start w-full h-full'>
-                        <img src="../public/imagen_pagina_2-removebg-preview.png" alt="" />
+                        <img src="https://i.ibb.co/ZYsBVzM/imagen-pagina-2-removebg-preview.png" alt="" />
                     </div>
                 </div>
             </div>
