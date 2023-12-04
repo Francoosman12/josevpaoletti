@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import '../styles/inicio.css';
 import Datos from './datos';
 import Publicidad from './Publicidad'
+
 /* import Typed from 'react-typed'; */
 
 
@@ -13,7 +14,7 @@ const Inicio = () => {
 
         <section className='w-full min-h-screen bg-white md:pt-26 p-4 justify-center' id='inicio'>
             <div className="home flex-block lg:flex">
-                <div className='Distribuidora max-w-[1000px] mx-auto lg:pl-28 pt-10 lg:pt-24 flex-block md:flex-col lg:text-left justify-center text-center w-full md:w-3/5 p-4 h-full'>
+                <div className='Distribuidora max-w-[800px] mx-auto lg:pl-28 pt-10 lg:pt-24 flex-block md:flex-col lg:text-left justify-center text-center w-full md:w-3/5 p-4 h-full'>
                     <h1 className='texto-gris lg:text-9xl md:text-7xl text-5xl'>Distribuidora.</h1>
                     <p className='texto-gris lg:text-4xl md:text-3xl text-2xl lg:pt-5 pl-2'>Líder en servicio de ventas y logística.</p>
                     <div className='md:pt-20 lg:flex pt-4'>
@@ -42,7 +43,7 @@ const Inicio = () => {
                 </div>
                 <div className='dibujo-home md:w-2/5 w-full h-full lg:p-4 '>
                     <div className='max-w-[1000px] mx-auto justify-center text-center lg:justify-start w-full h-full'>
-                        <img src="https://i.ibb.co/ZYsBVzM/imagen-pagina-2-removebg-preview.png" alt="" />
+                        <img src="../public/imagen_pagina_2-removebg-preview.png" alt="" />
                     </div>
                 </div>
             </div>
