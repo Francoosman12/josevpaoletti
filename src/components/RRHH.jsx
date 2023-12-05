@@ -36,7 +36,7 @@ const RRHH = () => {
 
                     </div>
 
-                    <div class="flex items-center justify-center h-full md:h-screen mx-auto w-full md:w-1/2 from-indigo-500 to-indigo-800 z-2 pt-16 md:pt-5">
+                    <div class="flex items-center justify-center h-full md:h-screen mx-auto w-full md:w-1/2 from-indigo-500 to-indigo-800 z-2 pt-16 md:pt-5 pb-8">
                         <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs">
                             <img class="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto" src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="product designer" />
                             <h1 class="text-lg text-gray-700"> John Doe </h1>
