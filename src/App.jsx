@@ -1,14 +1,8 @@
 import React, { useState } from 'react';
 import Navbar from "./components/Navbar";
-import Inicio from "./components/Inicio";
-import Nosotros from "./components/Nosotros";
-import Empresas from "./components/Empresas";
-import Noticias from "./components/Noticias";
-import Contacto from "./components/Contacto";
+import Home from "./pages/home";
 import Footer from "./components/Footer";
-import RRHH from "./components/RRHH";
 import Publicidad from "./components/Publicidad";
-import "./styles/contacto.css"
 function App() {
 
   const [mostrarPublicidad, setMostrarPublicidad] = useState(true);
@@ -22,12 +16,7 @@ function App() {
     <>
       {mostrarPublicidad && <Publicidad onClose={cerrarPublicidad} />}
       <Navbar />
-      <Inicio />
-      <Nosotros />
-      <Empresas />
-      <RRHH />
-      <Noticias />
-      <Contacto />
+      <Home />
       <Footer />
 
     </>
